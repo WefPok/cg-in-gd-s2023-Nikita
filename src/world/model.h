@@ -2,9 +2,9 @@
 
 #include "resource.h"
 
+#include "linalg.h"
+#include "tiny_obj_loader.h"
 #include <filesystem>
-#include <linalg.h>
-#include <tiny_obj_loader.h>
 
 
 using namespace linalg::aliases;

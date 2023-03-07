@@ -5,7 +5,7 @@
 
 #include "utils/error_handler.h"
 
-#include <stb_image_write.h>
+#include "stb_image_write.h"
 
 
 using namespace cg::utils;

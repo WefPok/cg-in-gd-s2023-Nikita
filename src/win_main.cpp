@@ -2,7 +2,7 @@
 #include "settings.h"
 #include "utils/window.h"
 
-#include <Windows.h>
+#include <windows.h>
 
 #include <exception>
 

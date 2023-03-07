@@ -2,8 +2,8 @@
 
 #include "resource.h"
 
+#include "linalg.h"
 #include <iostream>
-#include <linalg.h>
 #include <memory>
 #include <omp.h>
 #include <random>

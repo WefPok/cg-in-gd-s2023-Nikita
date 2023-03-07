@@ -2,9 +2,9 @@
 
 #ifdef _WIN32
 
-#include <Windows.h>
 #include <stdexcept>
 #include <string>
+#include <windows.h>
 
 #define THROW_IF_FAILED(hr)                       \
 	if (FAILED(hr))                               \

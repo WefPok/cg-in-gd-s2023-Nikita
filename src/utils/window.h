@@ -2,7 +2,7 @@
 
 #include "renderer/renderer.h"
 
-#include <Windows.h>
+#include <windows.h>
 
 namespace cg::utils
 {

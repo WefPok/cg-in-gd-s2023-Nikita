@@ -1,6 +1,6 @@
 #pragma once
 
-#include <linalg.h>
+#include "linalg.h"
 #ifdef DX12
 #include <DirectXMath.h>
 #endif
