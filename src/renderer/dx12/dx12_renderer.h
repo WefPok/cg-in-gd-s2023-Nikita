@@ -7,13 +7,13 @@
 #include "renderer/renderer.h"
 
 #include "d3dx12.h"
+#include <DirectXMath.h>
+#include <Windows.h>
 #include <d3dcompiler.h>
-#include <directxmath.h>
 #include <dxgi1_4.h>
 #include <exception>
 #include <initguid.h>
 #include <iostream>
-#include <windows.h>
 #include <wrl.h>
 
 
