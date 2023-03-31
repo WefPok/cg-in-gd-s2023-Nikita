@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../../../../Downloads/CGGD_S23-8d061d58c47c168a01fb8fdd642d4e1932d42ea9/CGGD_S23-8d061d58c47c168a01fb8fdd642d4e1932d42ea9/src/utils/error_handler.h"
+#include "utils/error_handler.h"
 
 #include "linalg.h"
 #include <algorithm>
